@@ -1,0 +1,12 @@
+source 'https://rubygems.org'
+
+gem 'sinatra'
+gem 'pg'
+gem 'rack'
+gem 'dm-core'
+gem 'dm-postgres-adapter'
+gem 'dm-migrations'
+gem 'data_mapper'
+gem 'builder'
+gem 'sinatra-flash'
+gem 'sinatra-redirect-with-flash'
