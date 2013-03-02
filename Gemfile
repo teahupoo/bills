@@ -1,8 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'sinatra', '<=1.3.5'
-gem 'pg'
-gem 'rack'
+gem 'sinatra', '<= 1.3.5'
 gem 'dm-core'
 gem 'dm-postgres-adapter'
 gem 'dm-migrations'
