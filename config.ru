@@ -1,6 +1,4 @@
 require 'sinatra'
-require './recall'
-
-Bundler.require
+require './recall.rb'
 
 run Sinatra::Application
