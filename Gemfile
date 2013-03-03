@@ -1,4 +1,5 @@
 source 'https://rubygems.org'
+gem 'heroku'
 gem 'pg'
 gem 'sinatra', '<= 1.3.5'
 gem 'dm-core'
