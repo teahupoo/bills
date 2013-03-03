@@ -94,7 +94,9 @@ PLATFORMS
 DEPENDENCIES
   builder
   data_mapper
+  data_objects
   dm-core
+  dm-do-adapter
   dm-migrations
   dm-postgres-adapter
   heroku

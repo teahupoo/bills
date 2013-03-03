@@ -1,4 +1,6 @@
 source 'https://rubygems.org'
+gem 'data_objects'
+gem 'dm-do-adapter'
 gem 'heroku'
 gem 'pg'
 gem 'sinatra', '<= 1.3.5'
